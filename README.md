@@ -1,0 +1,3 @@
+College Website which contains most of the details needed in the Colleges such as New Users Registeration, 
+Login for the specific users (Admin, Teachers, etc.), 
+Application Form, Enquiry From and Details for enquiry and more informations... 
